@@ -1,4 +1,7 @@
 # JAVA
+
+![Screenshot](picture0.png)
+
 Java script files.
 
 https://github.com/BroadbentT/Battleships
