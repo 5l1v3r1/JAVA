@@ -1,7 +1,7 @@
 # JAVA
 Java script files.
 
-  ![Screenshot](picture.jpeg)
+  ![Screenshot](picture.jpg)
 
 https://github.com/BroadbentT/Battleships
 
