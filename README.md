@@ -1,4 +1,4 @@
-# JAVA SCRIPTS
+# JAVA SCRIPT FILES
 
 | FILENAME       | DESCRIPTION |
 |----------------|-------------|
