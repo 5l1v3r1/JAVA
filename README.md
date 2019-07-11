@@ -5,7 +5,7 @@
 | [BattleShips](https://github.com/BroadbentT/Battleships) | Java version of a famous game.|
 | [PetShop 1](https://github.com/BroadbentT/Petshop-1) | Petshop using inheritance. |
 | [PetShop 2](https://github.com/BroadbentT/Petshop-2) |Petshop using polymorphism.|
-| [BookShop](https://github.com/BroadbentT/Bookshop)| A book shop stock-manager program using object-oriented programming (OOP). |
+| [BookShop](https://github.com/BroadbentT/Bookshop)| A book shop stock-manager using object-oriented programming (OOP). |
 
 OLD UNIVERSITY SCRIPT FILES.
 ****************************
