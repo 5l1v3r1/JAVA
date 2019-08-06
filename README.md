@@ -2,7 +2,7 @@
 ## Old University proof of concept files.
 
 
-| FILENAME       | DESCRIPTION |
+| FILE | DESCRIPTION |
 |----------------|--------------------|
 | [PetShop 1](https://github.com/BroadbentT/Petshop-1) | A pet shop animal/owner relationship utility file using java inheritance. |
 | [PetShop 2](https://github.com/BroadbentT/Petshop-2) |A pet shop animal/owner relationship utility file using java polymorphism. |
